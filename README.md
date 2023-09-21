@@ -1,0 +1,6 @@
+# HoriSEOn #
+For the purpose of this task, I needed to adjust any issues that were present in [your website's](https://cddoigkn.github.io/semantic-html/) code, and make it more efficient so that it will work better in the future.
+## Work Done ##
+Within the .html file itself, anything that is listed as a comment is an adjustment that was made during this task (shown through a green <!-- --> within the .html file itself along with some of the .css file). I made sure to go over these at least somewhat descriptively so that you will better understand what I did so there won't be any confusion.
+## The Website ##
+While rudimentary, the website itself contains A picture of a small business meeting with various folders and things to represent people trying to show their work on the project at hand. Underneath that is a few specific points of focus that the company, HoriSEOn focuses on, all within the realm of social media and web search influence [as seen here](<assets/images/screenshot of board meeting.png>).
